@@ -16,6 +16,7 @@ export default async function Page() {
   ])
 
   // what happen if what request is take much longer time than the other
+  // should isolate and waterfall it
 
   return (
     <main>
